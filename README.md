@@ -1,4 +1,4 @@
-# AI-assisted-FURS-system
+# AI-assisted-FURS-system (AiFURS)
 
 Welcome! 👋
 
