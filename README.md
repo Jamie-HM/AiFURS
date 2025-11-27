@@ -13,8 +13,10 @@ The original dataset generated and analyzed, along with the custom code used in 
 
 ## Acknowledgement
 
-Thanks them for releasing their codes!
+Thanks them for releasing their awesome codes!
 - [ultralytics](https://github.com/ultralytics/ultralytics)
+- [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
+- [RT-DETRv2](https://github.com/supervisely-ecosystem/RT-DETRv2)
 - [BoT-SORT](https://github.com/NirAharon/BoT-SORT)
 
 ## Contact
