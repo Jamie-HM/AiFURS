@@ -1,36 +1,27 @@
-# AI-assisted-FURS-system (AiFURS)
+# AiFURS
+## Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery
 
-Welcome! 👋
+## Description
 
-This repository provides the official PyTorch implementation of the paper.
-
-## 👀 Demo
-
-
-## 🚀 Get Started
-
-#### Main Requirements
-
-- torch==
-- torchvision==
-- pillow==
-- timm==
+This implementation corresponds to the Artificial Intelligence Flexible Ureteroscopy System (AiFURS) proposed in the paper *Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery*.
 
 
+## Note
 
-## 📮 Feedback and Contact
+The original dataset generated and analyzed, along with the custom code used in the present study, is not publicly available due to ethical regulations concerning confidentiality and privacy. However, it is available upon reasonable request from the corresponding author.
 
-For further questions, pls feel free to contact [Haomin Liang](mailto:jamie24618@gmail.com).
 
-## 📜 License
+## Acknowledgement
 
-This project is under the Apache License 2.0 license. See [LICENSE](LICENSE) for details.
+Thanks them for releasing their codes!
+- [ultralytics](https://github.com/ultralytics/ultralytics)
+- [BoT-SORT](https://github.com/NirAharon/BoT-SORT)
 
-## 🙏 Acknowledgement
+## Contact
 
-Our code is based on [ultralytics](https://github.com/ultralytics/ultralytics), and [BoT-SORT](https://github.com/NirAharon/BoT-SORT). Thanks them for releasing their codes.
+For further questions, pls feel free to contact [Email](mailto:jamie24618@gmail.com).
 
-## 📝 Citation
+## Citation
 
 If you find this code useful, please cite in your research papers.
 
