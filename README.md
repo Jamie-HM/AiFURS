@@ -25,5 +25,4 @@ For further questions, pls feel free to contact [Email](mailto:jamie24618@gmail.
 
 ## Citation
 
-If you find this code useful, please cite in your research papers.
-
+Wang, C., Liang, H., Chen, H. et al. Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery. npj Digit. Med. 8, 728 (2025). https://doi.org/10.1038/s41746-025-02109-9
