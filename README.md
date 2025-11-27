@@ -8,7 +8,7 @@ This implementation corresponds to the Artificial Intelligence Flexible Ureteros
 
 ## Note
 
-The original dataset generated and analyzed, along with the custom code used in the present study, is not publicly available due to ethical regulations concerning confidentiality and privacy. However, it is available upon reasonable request from the corresponding author.
+The dataset analyzed in this study, together with the custom code, cannot be made publicly accessible due to ethical constraints related to confidentiality and privacy. However, it is available upon reasonable request from the corresponding author.
 
 
 ## Acknowledgement
