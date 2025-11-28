@@ -17,6 +17,7 @@ Thanks them for releasing their awesome codes!
 - [ultralytics](https://github.com/ultralytics/ultralytics)
 - [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
 - [RT-DETRv2](https://github.com/supervisely-ecosystem/RT-DETRv2)
+- [D-FINE](https://github.com/Peterande/D-FINE)
 - [BoT-SORT](https://github.com/NirAharon/BoT-SORT)
 
 ## Contact
