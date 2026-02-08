@@ -4,9 +4,7 @@
 ## Description
 
 This implementation corresponds to the Artificial Intelligence Flexible Ureteroscopy System (AiFURS) proposed in the paper *Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery*.
-- [Paper](https://www.nature.com/articles/s41746-025-02109-9) ｜ 
-- [Media (UroToday)](https://www.urotoday.com/recent-abstracts/endourology-urolithiasis/stone-disease/165638-clinical-validation-of-an-ai-assisted-system-for-real-time-kidney-stone-detection-during-flexible-ureteroscopic-surgery-beyond-the-abstract.html) ｜ 
-- [医工学人](https://mp.weixin.qq.com/s/yQq0_lcM9b_heHo3MkXJeg)
+- [Paper](https://www.nature.com/articles/s41746-025-02109-9) ｜ [Media (UroToday)](https://www.urotoday.com/recent-abstracts/endourology-urolithiasis/stone-disease/165638-clinical-validation-of-an-ai-assisted-system-for-real-time-kidney-stone-detection-during-flexible-ureteroscopic-surgery-beyond-the-abstract.html) ｜ [医工学人](https://mp.weixin.qq.com/s/yQq0_lcM9b_heHo3MkXJeg)
 
 ## Tracking Logic Reference
 
