@@ -32,3 +32,16 @@ For further questions, pls feel free to contact [Email](mailto:jamie24618@gmail.
 ## Citation
 
 Wang, C., Liang, H., Chen, H. et al. Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery. npj Digit. Med. 8, 728 (2025). https://doi.org/10.1038/s41746-025-02109-9
+
+``` bibtex
+@article{wang2025clinical,
+  title={Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery},
+  author={Wang, Chenfeng and Liang, Haomin and Chen, Hairui and Khan, Rashid and Shen, Donglai and Liu, Haitao and Shen, Dan and Wang, Wei and Liu, Jianwen and Panthier, Fr{\'e}d{\'e}ric and others},
+  journal={NPJ Digital Medicine},
+  volume={8},
+  number={1},
+  pages={728},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
