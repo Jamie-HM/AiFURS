@@ -5,11 +5,16 @@
 
 This implementation corresponds to the Artificial Intelligence Flexible Ureteroscopy System (AiFURS) proposed in the paper *Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery*.
 
+## Tracking Logic Reference
+
+The execution logic of the detection–tracking pipeline in this project follows a design pattern similar to the Ultralytics tracking mode, please refer to:
+
+- Ultralytics tracking documentation:  
+  https://docs.ultralytics.com/modes/track/
 
 ## Note
 
 The dataset analyzed in this study, together with the custom code, cannot be made publicly accessible due to ethical constraints related to confidentiality and privacy. However, it is available upon reasonable request from the corresponding author.
-
 
 ## Acknowledgement
 
