@@ -10,8 +10,7 @@ This implementation corresponds to the Artificial Intelligence Flexible Ureteros
 
 The execution logic of the detection–tracking pipeline in this project follows a design pattern similar to the Ultralytics tracking mode, please refer to:
 
-- Ultralytics tracking documentation:  
-  https://docs.ultralytics.com/modes/track/
+- [Ultralytics tracking](https://docs.ultralytics.com/modes/track/)
 
 ## Note
 
